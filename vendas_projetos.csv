@@ -1,0 +1,11 @@
+produto,vendedor,cidade,quantidade,valor_unitario,faturamento
+Notebook,Ana,São Paulo,2,3500,7000
+Mouse,João,Santos,5,80,400
+Teclado,Carla,São Paulo,3,150,450
+Notebook,Ana,Santos,1,3500,3500
+Mouse,João,São Paulo,4,80,320
+Monitor,Carla,São Paulo,2,1200,2400
+Teclado,Ana,Santos,6,150,900
+Notebook,João,São Paulo,1,3500,3500
+Monitor,Carla,Santos,3,1200,3600
+Mouse,Ana,São Paulo,5,80,400
